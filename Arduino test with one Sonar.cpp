@@ -6,7 +6,7 @@
  * @date              april 2019
  * @brief             This file define the obstacle avoiding using potential field
  *                    and one sonar
- * @Important         The sonar should be on the Y axis
+ * @Important         add Brainzy.h and BrainzyPinout.h libraries. However the code can be used with any robot
  */
 
 
