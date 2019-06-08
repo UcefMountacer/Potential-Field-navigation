@@ -7,6 +7,7 @@
  * @brief             This file define the obstacle avoiding using potential field
  *                    and one sonar
  * @Important         add Brainzy.h and BrainzyPinout.h libraries. However the code can be used with any robot
+ *                    Code lacks control module over mototrs because it depends on the application
  */
 
 
