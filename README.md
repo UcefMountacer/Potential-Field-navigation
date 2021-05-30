@@ -15,7 +15,7 @@ for more details visit : https://www.mr-robotics.com/
 
 # Software : Arduino IDE
 
-![Capture](https://github.com/UcefMountacer/Potential-Field-navigation/wiki/Potential-Field-navigation/ressources/cpp code.png)
+![Capture](https://github.com/UcefMountacer/Potential-Field-navigation/blob/master/ressources/cpp%20code.png?raw=true)
 
 # **========== WIKI ==========**
 
